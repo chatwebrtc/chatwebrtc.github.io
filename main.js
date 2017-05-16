@@ -12,7 +12,7 @@ var room_text;
 var appid_text;
 var configuration={
     "iceServers": [
-        {"url": "stun:cn1-stun.wilddog.com:3478"}
+        {"url": "stun:cn1-stun.wilddog.com:3478"},
         {"url":"stun:stun01.sipphone.com"},
         {"url":"stun:stun.ekiga.net"},
         {"url":"stun:stun.fwdnet.net"},
