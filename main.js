@@ -13,7 +13,7 @@ var appid_text;
 var configuration={
     "iceServers": [
          {
-            "url": "stun:cn1-stun.wilddog.com:3478"
+            "url": "stun.l.google.com:19302"
         }
     ]
 };
