@@ -12,22 +12,7 @@ var room_text;
 var appid_text;
 var configuration={
     "iceServers": [
-        {"url": "stun:cn1-stun.wilddog.com:3478"},
-        {"url": "stun:stun.ekiga.net:3478"},
-        {"url": "stun:stun.ideasip.com:3478"},
-        {"url": "stun:stun.schlund.de:3478"},
-        {"url": "stun:stun.l.google.com:19302"},
-        {"url": "stun:stun1.l.google.com:19302"},
-        {"url": "stun:stun2.l.google.com:19302"},
-        {"url": "stun:stun3.l.google.com:19302"},
-        {"url": "stun:stun4.l.google.com:19302"},
-        {"url": "stun:stun.voiparound.com:3478"},
-        {"url": "stun:stun.voipbuster.com:3478"},
-        {"url": "stun:stun.voipstunt.com:3478"},
-        {"url": "stun:stun.voxgratia.org:3478"},
-        {"url": "stun:stun.xten.com:3478"}        
-        
-        
+        {"url": "stun:cn1-stun.wilddog.com:3478"}
     ]
 };
 window.onload = function() {
